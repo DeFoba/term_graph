@@ -19,3 +19,16 @@
 - Matplotlib
 
 ## Структура проекта
+/data        - статьи  
+/src         - код  
+/experiments - эксперименты  
+/models      - модели  
+README.md
+
+## Запуск
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
